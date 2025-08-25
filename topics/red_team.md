@@ -30,7 +30,7 @@ These examples show red teaming in action: transforming social lures into techni
 
 ## Challenges
 
-Try a simple CTF-style challenge from [PicoCTF](https://picoctf.org/), [OverTheWire](https://overthewire.org/wargames/) (Natas), [TryHackMe](https://tryhackme.com/) or [HackTheBox](https://www.hackthebox.com/).
+Try a (simple) CTF-style challenge from [PicoCTF](https://picoctf.org/), [OverTheWire](https://overthewire.org/wargames/) (Natas), [TryHackMe](https://tryhackme.com/) or [HackTheBox](https://www.hackthebox.com/).
 
 Now its your time soldier, let's start the **Cellular Recon** Project (Also see [Hardware Hacking](hardware_hacking.md)):
 
