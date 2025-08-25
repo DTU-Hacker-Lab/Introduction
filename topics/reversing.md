@@ -1,7 +1,5 @@
 # Reverse Engineering
 
-# Reverse Engineering
-
 ## Overview / What is it?
 
 > Reverse engineering is the process of analyzing a subject system to identify the system's components and their interrelationships and create representations of the system in another form or at a higher level of abstraction.
