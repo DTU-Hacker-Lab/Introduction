@@ -59,6 +59,7 @@ Here are more:
 - [Geotastic - A Free Geoguessr Alternative](https://geotastic.net/home)
 
 ## Further Reading
+- [Stop Calling it OSINT](https://www.dutchosintguy.com/post/stop-calling-it-osint)
 - [Blog by Sofia Santos](https://gralhix.com/)
 - [Blog by Bellingcat](https://www.bellingcat.com/)
 - [Toolkit by Bellingcat](https://bellingcat.gitbook.io/toolkit/)
