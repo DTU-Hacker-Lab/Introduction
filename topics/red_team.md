@@ -30,7 +30,9 @@ These examples show red teaming in action: transforming social lures into techni
 
 ## Challenges
 
-Now its your time soldier, let's start the **Cellular Recon** Project:
+Try a simple CTF-style challenge from [PicoCTF](https://picoctf.org/), [OverTheWire](https://overthewire.org/wargames/) (Natas), [TryHackMe](https://tryhackme.com/) or [HackTheBox](https://www.hackthebox.com/).
+
+Now its your time soldier, let's start the **Cellular Recon** Project (Also see [Hardware Hacking](hardware_hacking.md)):
 
 - **Wardriving Lite**: Use free apps like Wigle WiFi or Network Survey on your phone to map nearby Wi-Fi, Bluetooth, or cellular signals. Can you geolocate yourself using only Wi-Fi names? Simulates passive reconnaissance without hacking.
 
@@ -38,7 +40,6 @@ Now its your time soldier, let's start the **Cellular Recon** Project:
 - **Signal Hunt Challenge**: Walk around, log strongest Wi-Fi spots, and hypothesize “attack vectors” (e.g., open networks). Share maps in group—feels like fog-of-war intel gathering.
 
 The world is full of opportunities to think differently — but you’ll need allies for the journey! Come visit our **DTU Hacker Lab**, where curious minds like yours gather to learn, collaborate, and tackle projects together.  
-
  
 
 ## Further Reading
